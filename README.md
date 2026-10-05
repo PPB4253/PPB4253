@@ -1,21 +1,24 @@
 # ¡Hola! Soy Adrián Jiménez Ortuño 👋
 
-Estudiante de **Ingeniería Informática - Tecnologías Informáticas** en la Universidad de Sevilla. Durante estos años de carrera he pasado de dar mis primeros pasos en la programación a desarrollar soluciones completas que abarcan desde el bajo nivel y diseño de compiladores hasta la administración de sistemas y despliegue de infraestructura en la nube.
+Estudiante de **Ingeniería Informática - Tecnologías Informáticas** en la Universidad de Sevilla. Durante estos años de carrera he pasado de dar mis primeros pasos en la programación a desarrollar soluciones completas que abarcan desde el bajo nivel y diseño de compiladores hasta el desarrollo web, la administración de sistemas y el despliegue de infraestructura en la nube.
 
 ## 🚀 Sobre mí
 * 🎓 Cursando el Grado en Ingeniería Informática en la **Universidad de Sevilla**.
-* 💻 Me apasiona entender la tecnología en todas sus capas: desde la arquitectura del hardware (ensamblador) hasta la gestión de redes y cloud computing.
-* 🛠️ Disfruto cacharreando con nuevas herramientas, ya sea configurando firewalls, analizando paquetes de red, o automatizando despliegues de máquinas virtuales. 
+* 💻 Me apasiona entender la tecnología en todas sus capas: desde la arquitectura del hardware (ensamblador) y el frontend, hasta la gestión de redes y cloud computing.
+* 🛠️ Disfruto cacharreando con nuevas herramientas, ya sea montando servidores locales, configurando firewalls, o automatizando despliegues de máquinas virtuales. 
 
 ## 🛠️ Stack Tecnológico y Herramientas
 
 **Lenguajes de Programación:**
-* Java, C, Python, Ensamblador (RISC-V)
+* Java, C, Python, JavaScript, Ensamblador (RISC-V)
+
+**Desarrollo Web y Bases de Datos:**
+* HTML5, JavaScript
+* Servidores web locales y bases de datos (WampServer, phpMyAdmin, WordPress)
 
 **Desarrollo de Software y Arquitectura:**
 * Diseño de compiladores y analizadores léxicos/sintácticos (ANTLR)
 * Implementación de algoritmos de teoría de grafos (JGraphT)
-* Gestión de bases de datos y servidores locales (WampServer, phpMyAdmin, WordPress)
 
 **Sistemas, Redes y Cloud:**
 * Entornos Linux y gestión de contenedores (Podman)
